@@ -1,4 +1,4 @@
-## [LinkToFile](https://telegram.dog/AnyDLBot) - Clone
+## [LinkToFile](https://telegram.dog/LinkToFile0Bot) - Clone
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.

@@ -27,14 +27,14 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [PUBLIC CLOUD](https://telegram.dog/SD_EMX60)
+* [SP Public STORE](https://telegram.dog/SD_EMX60)
 
 ## Credits, and Thanks to
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe]
+- Special Thanks @SpEcHlDe
 
 #### LICENSE
 - GPLv3

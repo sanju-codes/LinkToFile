@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-Hai, Am  Link to File v5.25  Bot..
+Hai, Am  Link to File Bot..
       
 ☛ URL with Custom Thumbnail Support..
 
@@ -48,7 +48,7 @@ Expires on: Untill my death """
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+<b>👉 Create own Bot :</b> 👉 <a href="https://t.me/SD_EMX60">Diploy</a>
 
 --------
 Send /me to know current plan details

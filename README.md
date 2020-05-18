@@ -13,11 +13,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-#### The Easy Way
-
-**Watch our Video for Create own Bot** - 👉 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
 #### The Hard Way
 
@@ -31,14 +27,14 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [InFoTel Group](https://telegram.dog/SD_EMX60)
+* [PUBLIC CLOUD](https://telegram.dog/SD_EMX60)
 
 ## Credits, and Thanks to
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe]
 
 #### LICENSE
 - GPLv3

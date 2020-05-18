@@ -48,7 +48,7 @@ Expires on: Untill my death """
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Bot :</b> 👉 <a href="https://t.me/SD_EMX60">Diploy</a>
+<b>👉 Create own Bot :</b> 👉 <a href="https://github.com/Sanju8943/LinkToFile">Diploy</a>
 
 --------
 Send /me to know current plan details

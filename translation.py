@@ -1,6 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hello,
-Hai, Am  Link to File Bot..
+    START_TEXT = """Hai, Am  Link to File Bot..
       
 ☛ URL with Custom Thumbnail Support..
 
